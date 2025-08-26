@@ -20,10 +20,8 @@ Bem-vindo à **GSTORE Landing Page**, uma página moderna e responsiva desenvolv
 
 ## 🗂 Estrutura de Pastas
 
-/gstore-landing
-├── index.html # Página principal
-│── style.css # Estilos da landing page
-└── script.js # Scripts e animações
+<img width="288" height="105" alt="image" src="https://github.com/user-attachments/assets/e669d051-80a0-4f12-80be-e7cb1c06771e" />
+
 
 
 ---
