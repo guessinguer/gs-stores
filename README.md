@@ -1,6 +1,5 @@
 # GSTORE Landing Page
 
-![GSTORE Logo](assets/logo.png)
 
 Bem-vindo à **GSTORE Landing Page**, uma página moderna e responsiva desenvolvida para promover produtos exclusivos da GSTORE. Esta landing page foi criada com **HTML, CSS e JavaScript** e organizada para fácil manutenção e escalabilidade.
 
